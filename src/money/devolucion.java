@@ -6,7 +6,7 @@ public class devolucion {
 		
       procedimiento myprocedimiento= new procedimiento();
       
-      myprocedimiento.insertdato(13);
+	myprocedimiento.insertdato(13);
 	}
 
 }
